@@ -13,7 +13,7 @@ Welcome to **h5visualizer**! This is a Python tool that allows you to visualize 
 First, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/YourUsername/h5visualizer.git
+git clone https://github.com/krazykarthik2/h5visualizer.git
 cd h5visualizer
 ```
 Install the Package:
