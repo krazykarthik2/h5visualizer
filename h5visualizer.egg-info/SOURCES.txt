@@ -1,0 +1,8 @@
+h5visualizer.py
+setup.py
+h5visualizer.egg-info/PKG-INFO
+h5visualizer.egg-info/SOURCES.txt
+h5visualizer.egg-info/dependency_links.txt
+h5visualizer.egg-info/entry_points.txt
+h5visualizer.egg-info/requires.txt
+h5visualizer.egg-info/top_level.txt

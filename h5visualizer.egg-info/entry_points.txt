@@ -1,0 +1,2 @@
+[console_scripts]
+h5visualizer = h5visualizer:main
