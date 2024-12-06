@@ -7,7 +7,8 @@ setup(
     install_requires=[
         'tensorflow',
         'matplotlib',
-        'numpy'
+        'numpy',
+        'argparse',
     ],
     entry_points={
         'console_scripts': [
