@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "h5visualizer"
+version = "0.0.1"
+authors = [
+  { name="karthikkrazy", email="goparajukarthik2@gmail.com" },
+]
+description = "A package to visualize h5 models"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+  'tensorflow',
+  'matplotlib',
+  'numpy',
+  'argparse',
+]
+
+[project.urls]
+Homepage = "https://github.com/krazykarthik2/h5visualizer"
+Issues = "https://github.com/krazykarthik2/h5visualizer/issues"
+
+[project.scripts]
+h5visualizer = "h5visualizer:main"

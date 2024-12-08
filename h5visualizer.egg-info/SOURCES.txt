@@ -1,4 +1,7 @@
+LICENSE
+README.md
 h5visualizer.py
+pyproject.toml
 setup.py
 h5visualizer.egg-info/PKG-INFO
 h5visualizer.egg-info/SOURCES.txt
