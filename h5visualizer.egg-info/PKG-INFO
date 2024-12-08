@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: h5visualizer
-Version: 0.0.1
+Version: 0.0.5
 Summary: A package to visualize h5 models
 Author-email: karthikkrazy <goparajukarthik2@gmail.com>
 Project-URL: Homepage, https://github.com/krazykarthik2/h5visualizer

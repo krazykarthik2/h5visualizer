@@ -1,8 +1,9 @@
 LICENSE
 README.md
-h5visualizer.py
 pyproject.toml
 setup.py
+h5visualizer/__init__.py
+h5visualizer/__main__.py
 h5visualizer.egg-info/PKG-INFO
 h5visualizer.egg-info/SOURCES.txt
 h5visualizer.egg-info/dependency_links.txt
